@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Hackerbas
 
-[![Abdalrahman Albakri Card](https://raw.githubusercontent.com/Hackerbas/Hackerbas/main/abdalrahman-albakri-card.svg?v=3)](https://github.com/Hackerbas)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hackerbas/Hackerbas/main/abdalrahman-albakri-card.svg" alt="Abdalrahman Albakri Profile Card" width="100%" />
+</p>
 
 ---
 
