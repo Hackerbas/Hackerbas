@@ -324,7 +324,7 @@
         </g>
         <g opacity="0">
           <animate attributeName="opacity" to="1" begin="2.6s" dur="0.4s" fill="freeze"/>
-          <text x="500" y="308"><tspan fill="#A78BFA">🖥️ Home Lab</tspan><tspan fill="#475569">  →  </tspan><tspan fill="#94A3B8">Zorin OS · Orange Pi · ESP32</tspan></text>
+          <text x="500" y="308"><tspan fill="#A78BFA">🖥️ Home Lab</tspan><tspan fill="#475569">  →  </tspan><tspan fill="#94A3B8">TOROS (custom OS) · Orange Pi · ESP32</tspan></text>
         </g>
       </g>
 
@@ -392,10 +392,10 @@
           <text x="39" y="20" text-anchor="middle" fill="#D1FAE5">ESP32</text>
         </g>
         <g transform="translate(846,410)">
-          <rect width="82" height="30" rx="15" fill="rgba(124,58,237,.12)" stroke="#7C3AED" stroke-width="1" filter="url(#glowSoft)">
+          <rect width="140" height="30" rx="15" fill="rgba(124,58,237,.12)" stroke="#7C3AED" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-width" values="1;1.6;1" dur="3.7s" repeatCount="indefinite"/>
           </rect>
-          <text x="41" y="20" text-anchor="middle" fill="#E9D5FF">Zorin OS</text>
+          <text x="70" y="20" text-anchor="middle" fill="#E9D5FF">TOROS (My OS)</text>
         </g>
       </g>
 
