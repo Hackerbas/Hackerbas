@@ -1,4 +1,6 @@
-![Hackerbas Profile Card](./abdalrahman-albakri-card.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hackerbas/Hackerbas/main/hackerbas-card.svg" alt="Hackerbas Profile Card" width="100%" />
+</div>
 
 # Hi there 👋 I'm Hackerbas
 
