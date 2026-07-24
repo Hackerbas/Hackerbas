@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./abdalrahman-albakri-card.svg" alt="Abdalrahman Albakri Profile Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hackerbas/hackerbas/main/abdalrahman-albakri-card.svg" alt="Abdalrahman Albakri Profile Card" width="100%" />
 </div>
 
 ---
